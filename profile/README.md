@@ -1,7 +1,7 @@
 # Object Tracking with YOLOv5 and DeepSORT
 
 > ### Autonomous Driving Toy Project
-> Autonomous Driving Toy Project, YOLOv5 and DeepSORT Model을 사용한 Object Tracking.
+> YOLOv5 and DeepSORT Model을 사용한 Object Tracking
 
 ## Goals
 
