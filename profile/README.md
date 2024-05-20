@@ -1,9 +1,8 @@
-# <a href = 'https://www.notion.so/toy-project-0b2300dbdc2148a08eedde20148bc0b4'>Autonomous Driving, Perception Toy Project 
+# Autonomous Driving, Perception Toy Project 
 
 ## Goals
 
-- Object Tracking
-- Image Processing
+- <a href = 'https://www.notion.so/Object-Tracking-4c4e43e9500a481099a4c43e934ac2f0'>Object Tracking
 
 ## Definitions
 
