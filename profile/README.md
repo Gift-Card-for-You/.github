@@ -3,6 +3,7 @@
 ## Goals
 
 - <a href = 'https://www.notion.so/Object-Tracking-4c4e43e9500a481099a4c43e934ac2f0'>Object Tracking
+- Image Processing
 
 ## Definitions
 
@@ -14,15 +15,12 @@
 ## Dataset
 
 - UA-DETRAC
-- KITTI Vision Benchmark Suite
-- Cityscapes
-- Berkley DeepDrive
 
 ## Model
 
 **YOLOv5 + DeepSORT**
 > Object Detection → YOLOv5 <br>
-> Tracking → DeepSORT(강력한 실시간 Object Tracking)
+> Tracking → DeepSORT
 
 ## Overview
 
