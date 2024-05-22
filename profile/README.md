@@ -5,7 +5,7 @@
 
 ## Goals
 
-- <a href = 'https://www.notion.so/Object-Tracking-4c4e43e9500a481099a4c43e934ac2f0'>Object Tracking
+- <a href = 'https://www.notion.so/toy-project-4c4e43e9500a481099a4c43e934ac2f0'>Object Tracking
 - Image Processing
 
 ## Definitions
